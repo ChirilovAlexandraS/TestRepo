@@ -1,4 +1,3 @@
 Hello, GitHub!
-Hello, class!
 Add a third line.
 Adding some more stuff.
